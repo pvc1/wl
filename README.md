@@ -67,8 +67,8 @@ Telegram-бот для связи: https://t.me/zieng2bot
 
 CloudTips: https://pay.cloudtips.ru/p/b532cfa7
 
-USDT (TRC20): TDqGB6c5D9odC7zp74hWfVvoE2MkWago1j
+USDT (TRC20): `TDqGB6c5D9odC7zp74hWfVvoE2MkWago1j`
 
-BTC: bc1qaex0h3tdjjhq4a94m7z0gajugmmz9r3gf22uzv
+BTC: `bc1qaex0h3tdjjhq4a94m7z0gajugmmz9r3gf22uzv`
 
-ETH: 0xAf0AeCF853325370936D68EbD99921dDa55fd3DC
+ETH: `0xAf0AeCF853325370936D68EbD99921dDa55fd3DC`
